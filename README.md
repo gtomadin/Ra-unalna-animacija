@@ -1,2 +1,2 @@
-# Ra-unalna-animacija
+# Racunalna-animacija
 Laboratorijske vježbe: Računalna animacija
