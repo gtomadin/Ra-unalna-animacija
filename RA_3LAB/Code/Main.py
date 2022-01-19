@@ -190,7 +190,7 @@ if __name__ == '__main__':
     pygame.init()
     pygame.mixer.init()
 
-    pygame.display.set_caption('Space Game')
+    pygame.display.set_caption('Meteor Destroyer')
 
     screen_width = 600
     screen_height = 600
